@@ -1,0 +1,21 @@
+# build .NET
+src/ProductApi/bin/
+src/ProductApi/obj/
+publish/
+*.user
+
+# IDE
+.vs/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# segredos - nunca commitar
+appsettings.Production.json
+appsettings.*.local.json
+.env
+*.pem
+*.pfx
+techstore_azure
