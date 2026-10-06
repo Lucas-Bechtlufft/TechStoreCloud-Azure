@@ -5,7 +5,7 @@ Cloud Computing, rodando na Microsoft Azure. API em .NET 6, banco PostgreSQL ger
 frontend estatico e monitoramento com Azure Monitor.
 
 - Frontend: https://techstorelucas2026.z9.web.core.windows.net/
-- API: https://techstore-lucas.canadacentral.cloudapp.azure.com (`/swagger` tem a documentacao)
+- API (documentação): https://techstore-lucas.canadacentral.cloudapp.azure.com/swagger
 
 ## Estrutura
 
